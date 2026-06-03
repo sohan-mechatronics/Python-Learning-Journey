@@ -1,0 +1,129 @@
+PYTHON MASTER INDEX
+
+1. Python Fundamentals
+   
+   - Variables
+   - Input/Output
+   - Data Types
+   - Operators
+
+2. Decision Making
+   
+   - if
+   - if-else
+   - nested if
+
+3. While Loop
+   
+   - while loop
+   - infinite loop
+   - counting programs
+
+4. For Loop & Patterns
+   
+   - star patterns
+   - number patterns
+   - alphabet patterns
+
+5. Collections
+   
+   - List
+   - Tuple
+   - Dictionary
+   - Set
+
+6. Functions
+   
+   - User Defined Functions
+   - Arguments
+   - Return Values
+
+7. String Basics
+   
+   - Length
+   - Indexing
+   - Looping
+
+8. Advanced String Programs
+   
+   - Reverse String
+   - Vowel Counter
+   - Word Counter
+
+9. File & Exception Handling
+   
+   - File Read
+   - File Write
+   - Try Except
+   - Finally
+
+10. Object Oriented Programming (OOP)
+    
+    - Class
+    - Object
+    - Self
+
+11. Python Modules
+    
+    - Import
+    - Specific Import
+
+12. Date Time Programming
+    
+    - Date
+    - Time
+    - Datetime Module
+
+13. Custom Modules
+    
+    - User Modules
+    - Module Importing
+
+14. NumPy Fundamentals
+    
+    - Arrays
+    - Indexing
+    - Slicing
+
+15. Pandas Data Analysis
+    
+    - CSV Files
+    - DataFrames
+    - Statistics
+
+16. Matplotlib Visualization
+    
+    - Charts
+    - Graphs
+    - Images
+
+17. Advanced NumPy
+    
+    - Reshape
+    - Advanced Operations
+
+MINI PROJECTS
+- Calculator
+- ATM System
+- Login System
+- Guessing Game
+- Student Management System
+- Multiple Student Record System
+
+RESOURCES
+- student.txt
+- students.csv
+- student_marks.png
+- sohan_master_profile.txt
+
+--------------------------------------
+
+Total Learning Repository:
+Python Learning Journey by Sohan Kumar
+
+Total Learning Days : 17
+Mini Projects : 10+
+Resources : Text, CSV, PNG, Notes
+
+Status : Organized and Completed
+Last Updated : 02-06-2026
